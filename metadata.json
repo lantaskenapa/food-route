@@ -1,0 +1,6 @@
+{
+  "name": "Kuliner Trip - Viral Food Discovery & Route Planner",
+  "description": "Temukan rekomendasi kuliner viral TikTok di sepanjang rute perjalanan Anda. Dilengkapi pencarian rute, scraper TikTok cerdas, dan peta interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
